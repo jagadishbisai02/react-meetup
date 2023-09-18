@@ -22,6 +22,22 @@ export const Heading = styled.h1`
   line-height: 1.5px;
 `
 
+export const Name = styled.h1`
+  color: #2563eb;
+  font-size: 45px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  line-height: 1.5px;
+`
+
+export const Topic = styled.p`
+  color: #334155;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  line-height: 1.5px;
+`
+
 export const Desc = styled.p`
   color: #475569;
   font-size: 20px;
